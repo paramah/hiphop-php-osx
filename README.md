@@ -56,3 +56,6 @@ make
 ## Running HipHop
 
 Please see (http://wiki.github.com/facebook/hiphop-php/running-hiphop)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/paramah/hiphop-php-osx/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
